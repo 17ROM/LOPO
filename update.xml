@@ -1,7 +1,5 @@
-<update>
-<lopo>
-<title>LOPO-LG-P880-V1-20130509</title>
-<md5>xxxxxxxxxxxxxxxx</md5>
-<date>1368084570774</date>
-</lopo>
-</update>
+{
+"title":"LOPO-LG-P880-V1-20130509", 
+"date":1368084570774, 
+"md5", "xxxxxxxxxxxxxxxx"
+}
